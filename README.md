@@ -20,6 +20,7 @@
 ###
 
 <div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg](https://www.freepik.com/icon/c_6132222#fromView=search&page=1&position=4&uuid=79a79147-e529-4b45-b7ae-d048e729614b)" height="40" alt="jest logo"  />
