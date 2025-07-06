@@ -29,5 +29,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="25" height="25" alt="Selenium logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="25" height="25" alt="Postman logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25" alt="Apache JMeter logo"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" alt="Code Composer Studio logo"> 
+   <img src="https://www.ti.com/diagrams/ccstudio_ccs_256.jpg" width="25" height="25" alt="Code Composer Studio logo">
 </p>
