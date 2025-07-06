@@ -28,4 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="25" height="25" alt="Eclipse logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="25" height="25" alt="Selenium logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="25" height="25" alt="Postman logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="25" height="25" alt="Postman logo">
+  <img src="YOUR_CODE_COMPOSER_STUDIO_ICON_URL_HERE" width="25" height="25" alt="Code Composer Studio logo">
 </p>
