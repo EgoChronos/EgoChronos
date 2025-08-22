@@ -6,6 +6,7 @@
 <h2 align="left">About me</h2>
 
 ###
+- 👨‍💻 I am currently working as Software tester at GenTech.
 - 🔭 I am developing myself in Embedded systems - I have experience in ARM, AUTOSAR, RTOS and have knowledge of functional safty.
 - 🧑‍💻 I am ISTQB CTFL 4.0 holder. I am also ISTQB Agile tester aware.
 - 🌱 I am developing myself in implementation of testing techniques and automation testing for embedded testing and web testing using (C UNIT) and (selenium), (postman), and Jmeter.
