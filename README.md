@@ -1,6 +1,6 @@
 ## Hi there 👋 What's up?
 
-<p align="left">My name is Ahmed Tayee and I'm a software enthusiastic, from Egypt </p>
+<p align="left">My name is Ahmed Moustafa Tayee and I'm a software enthusiastic, from Egypt </p>
 ###
 
 <h2 align="left">About me</h2>
