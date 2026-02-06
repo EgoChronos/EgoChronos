@@ -15,20 +15,22 @@
 - ⚡ Fun fact: Chronos :: The Embodiment of Time ⌛⌚ 
 
 <h2 align="left">I code with</h2>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" alt="C logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" alt="C++ logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" alt="TypeScript logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" alt="MySQL logo">
 </p>
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" alt="VS Code logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="25" height="25" alt="Eclipse logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" alt="VS Code logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25" height="25" alt="IntelliJ IDEA logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="25" height="25" alt="Eclipse logo">
   <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/CCS_icon.png" width="25" height="25" alt="Code Composer Studio logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="25" height="25" alt="Selenium logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="25" height="25" alt="Postman logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="25" height="25" alt="Selenium logo">
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="25" height="25" alt="Playwright logo">
+  <img src="https://rest-assured.io/img/logo-transparent.png" width="25" height="25" alt="RestAssured logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="25" height="25" alt="Postman logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25" alt="Apache JMeter logo"> 
 </p>
