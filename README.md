@@ -1,18 +1,22 @@
 ## Hi there 👋 What's up?
+<p align="left">My name is Ahmed Moustafa Tayee and I'm a software quality enthusiast, from Egypt </p>
 
-<p align="left">My name is Ahmed Moustafa Tayee and I'm a software enthusiastic, from Egypt </p>
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-- 👨‍💻 I am currently working as Software tester at GenTech.
-- 🔭 I am developing myself in Embedded systems - I have experience in ARM, AUTOSAR, RTOS and have knowledge of functional safty.
-- 🧑‍💻 I am ISTQB CTFL 4.0 holder. I am also ISTQB Agile tester aware.
-- 🌱 I am developing myself in implementation of testing techniques and automation testing for embedded testing and web testing using (C UNIT) and (selenium), (postman), and Jmeter.
-- 🧪 I have hands on experience on testing activites and levels, though the projects, I have completed.
-- 📫 How to reach me: email: ahmed_tayee@outlook.com / Phone: +201013400826
-- ⚡ Fun fact: Chronos :: The Embodiment of Time ⌛⌚ 
+
+- 👨‍💻 I am currently working as Software Quality Engineer at GenTech.
+- 🎓 I am ISTQB CTFL v4.0 certified and Agile testing aware.
+- 🧪 I have hands-on experience in manual and automated testing across web and mobile platforms, including functional, regression, API, performance, and UI/UX testing.
+- 🔧 I am developing my skills in test automation using Playwright (TypeScript), Selenium WebDriver (Java), and RestAssured (Java) for web and API testing.
+- 🚀 I have experience with performance testing using JMeter and API testing with Postman and Swagger.
+- 🔭 I am also developing myself in Embedded systems - I have experience in ARM, AUTOSAR, RTOS, and knowledge of functional safety.
+- 💻 I work with Agile/Scrum methodologies and use tools like Jira, Git, and Jenkins for test management and CI/CD.
+- 🌱 Continuously learning and implementing best practices in shift-left testing and quality assurance.
+- 📫 How to reach me: Email: ahmed_tayee@outlook.com / Phone: +201013400826
+- ⚡ Fun fact: Chronos :: The Embodiment of Time ⌛⌚
 
 <h2 align="left">I code with</h2>
 <p align="left">
